@@ -71,6 +71,7 @@ spec:
         enabled: true
         ignoreTrustStoreConfig: true
 ---
+#https://docs.confluent.io/operator/current/co-plan.html#default-ports-in-co-long
 #https://docs.confluent.io/platform/current/flink/installation/overview.html
 #https://github.com/confluentinc/confluent-demo/blob/main/assets/manifests/cmf/basic/CMFRestClass.yaml
 #https://docs.confluent.io/operator/current/co-manage-flink.html
