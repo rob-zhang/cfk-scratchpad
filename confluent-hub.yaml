@@ -75,6 +75,7 @@ spec:
 #https://docs.confluent.io/platform/current/flink/installation/overview.html
 #https://github.com/confluentinc/confluent-demo/blob/main/assets/manifests/cmf/basic/CMFRestClass.yaml
 #https://docs.confluent.io/operator/current/co-manage-flink.html
+#https://confluent.slack.com/archives/C06H8AGRC4E/p1761326684094339?thread_ts=1761324461.422979&cid=C06H8AGRC4E
 ---
 apiVersion: platform.confluent.io/v1beta1
 kind: CMFRestClass
